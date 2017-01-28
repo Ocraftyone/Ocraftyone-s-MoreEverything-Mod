@@ -1,0 +1,20 @@
+item.cupcake.name=Cupcake
+item.sprinkle_cupcake.name=Sprinkled Cupcake
+item.sprinkles.name=Sprinkles
+item.cupcake_liner.name=Cupcake Liner
+
+item.cupcake_pan.empty.name=Empty Cupcake Pan
+item.cupcake_pan.one_cupcake.name=Cupcake Pan
+item.cupcake_pan.two_cupcakes.name=Cupcake Pan
+item.cupcake_pan.three_cupcakes.name=Cupcake Pan
+item.cupcake_pan.four_cupcakes.name=Cupcake Pan
+item.cupcake_pan.five_cupcakes.name=Cupcake Pan
+item.cupcake_pan.six_cupcakes.name=Cupcake Pan (Full)
+item.cupcake_pan.one_dough.name=Cupcake Pan
+item.cupcake_pan.two_dough.name=Cupcake Pan
+item.cupcake_pan.three_dough.name=Cupcake Pan
+item.cupcake_pan.four_dough.name=Cupcake Pan
+item.cupcake_pan.five_dough.name=Cupcake Pan
+item.cupcake_pan.six_dough.name=Cupcake Pan (Full)
+
+tile.sprinkles_ore.name=Sprinkles Ore

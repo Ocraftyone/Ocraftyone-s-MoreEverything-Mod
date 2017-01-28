@@ -1,0 +1,44 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+gradlew
+gradle.properties
+gradle/
+
+# other
+eclipse
+run
+saves/
+config/
+options.txt
+usercache.json
+usernamecache.json
+logs/
+crash-reports/
+jrebel/
+mods/
+src/main/resources/rebel.xml
+*.txt
+*.launch
+*.bat
+jr-minecraft-plugin.jar
+*.url
+
+
+# Minecraft
+minecraft

@@ -1,0 +1,17 @@
+[
+{
+  "modid": "moreeverything",
+  "name": "Ocraftyone's MoreEverything Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "description": "Adds more of everything to Minecraft!",
+  "credits": "Created by Ocraftyone",
+  "logoFile": "",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [ "Ocraftyone" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": []
+}
+]
