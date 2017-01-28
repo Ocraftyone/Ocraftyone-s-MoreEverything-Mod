@@ -5,9 +5,9 @@ I am open to suggestions always!
 This mod is still in beta.
 
 Some items include:
-Dough
-Cupcake
-Cupcake Pan
+Dough,
+Cupcake,
+Cupcake Pan,
 Ect.
 
 Continue to look out for the first release!
