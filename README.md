@@ -1,4 +1,4 @@
-# Ocraftyone-s-MoreEverything-Mod
+# Ocraftyone's MoreEverything Mod
 This is a minecraft mod created by me, Ocraftyone!
 I wanted to call the mod MoreEverything so that I could add anything I desire!
 I am open to suggestions always!
